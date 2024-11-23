@@ -1,3 +1,4 @@
+using Godot;
 using Serilog.Core;
 using Serilog.Events;
 using System;

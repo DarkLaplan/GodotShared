@@ -1,3 +1,4 @@
+using Godot;
 using Serilog;
 using System.IO;
 
